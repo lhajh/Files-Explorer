@@ -1,6 +1,6 @@
 module.exports = {
   baseUrl: '/Files-Explorer/demo',
-  outputDir: undefined,
+  outputDir: 'demo',
   assetsDir: 'static',
   runtimeCompiler: undefined,
   productionSourceMap: undefined,
